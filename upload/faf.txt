@@ -1,0 +1,3 @@
+сайт с сервером: https://dashboard.render.com/web/srv-cremoplds78s73ceqh1g/deploys/dep-cremoptds78s73ceqh5g
+ссылка на сервер: https://socket-server-3il3.onrender.com/
+репо сервера: https://github.com/cpb-home/AHJ-sse-ws-server
